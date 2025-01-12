@@ -1,6 +1,6 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: #6d2902;
     background-color: blanchedalmond;
     line-height: 1.5;
 }
@@ -8,4 +8,23 @@
 .heading {
     font-weight: 800;
     font-size: 24;
+    text-align: center;
+}
+
+h3.heading {
+    text-align: left;
+}
+
+ul li{
+    line-height: 2.5;
+}
+
+ol li{
+    line-height: 2;
+}
+
+a {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 600;
 }
