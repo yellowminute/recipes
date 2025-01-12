@@ -1,0 +1,11 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: blanchedalmond;
+    line-height: 1.5;
+}
+
+.heading {
+    font-weight: 800;
+    font-size: 24;
+}
